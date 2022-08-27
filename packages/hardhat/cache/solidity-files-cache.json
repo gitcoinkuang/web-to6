@@ -2,7 +2,7 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/root/challenge-1-decentralized-staking/packages/hardhat/contracts/ExampleExternalContract.sol": {
-      "lastModificationDate": 1661480447272,
+      "lastModificationDate": 1661564640852,
       "contentHash": "afdca6ef0024742b12247ea7953ce029",
       "sourceName": "contracts/ExampleExternalContract.sol",
       "solcConfig": {
@@ -44,7 +44,7 @@
       ]
     },
     "/root/challenge-1-decentralized-staking/packages/hardhat/contracts/Staker.sol": {
-      "lastModificationDate": 1661495429481,
+      "lastModificationDate": 1661565617539,
       "contentHash": "a551ccd6b753d4c2e2628ee70bfd6a34",
       "sourceName": "contracts/Staker.sol",
       "solcConfig": {
@@ -89,7 +89,7 @@
       ]
     },
     "/root/challenge-1-decentralized-staking/packages/hardhat/node_modules/hardhat/console.sol": {
-      "lastModificationDate": 1661480558067,
+      "lastModificationDate": 1661564742917,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
